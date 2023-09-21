@@ -47,6 +47,7 @@ ORDER BY total_spent DESC;
 | Rhonda     | Kennedy   | 191.62      |
 | Clara      | Shaw      | 189.60      |
 
+___
 
 ### 2. How are films priced and how often are they rented?
 
@@ -77,6 +78,7 @@ FROM film f;
 | Bright Encounters | Medium         | 4            |
 | Academy Dinosaur  | Low            | 3            |
 
+___
 
 ### 3. Are there overdue films from before 2006?
 **Question:** Which customers have films, rented before '2006-01-01', that are still not returned?
@@ -99,6 +101,7 @@ WHERE r.return_date IS NULL AND r.rental_date < '2006-01-01';
 |------------|-----------|--------------------|-----------------------|
 | Dwayne     | Olvera    | Academy Dinosaur  | 2005-08-21 00:30:32   |
 
+___
 
 ### 4. Which customers made transactions with us in mid-February 2007?
 **Question:** Can we pinpoint unique customers who made payments between '2007-02-15' and '2007-02-20'?
@@ -123,6 +126,7 @@ WHERE p.payment_date BETWEEN '2007-02-15' AND '2007-02-20';
 | Alan       | Kahn      |
 | Albert     | Crouse    |
 
+___
 
 ### 5. Can we determine the latest transaction amount for each customer?
 **Question:** How can we generate a list of customers with the value of their most recent transaction?
