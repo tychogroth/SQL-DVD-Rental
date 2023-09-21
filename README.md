@@ -1,5 +1,8 @@
 # SQL-DVD-Rental
-Portfolio for showcasing SQL
+Been using PostgreSQL Sample Database DVD Rental for this demonstration.
+
+Here is the ER-model for the database:
+![image](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png)
 
 ````sql
 SELECT c.first_name, c.last_name, SUM(p.amount) AS total_spent
