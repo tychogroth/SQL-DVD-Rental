@@ -6,7 +6,7 @@ Utilizing the PostgreSQL Sample Database, this demonstration showcases various S
 
 # Table of Contents
 - [Database ER-Model](#database-er-model)
-- [SQL Query Breakdown](#sql-query-breakdown)
+- [Questions, Solutions and Results](#questions-solutions-and-results)
     - [1. Who are our top spenders?](#1-who-are-our-top-spenders)
     - [2. How are films priced and how often are they rented?](#2-how-are-films-priced-and-how-often-are-they-rented)
     - [3. Are there overdue films from before 2006?](#3-are-there-overdue-films-from-before-2006)
@@ -19,7 +19,7 @@ The data I have used in this demonstration can be found [here](https://www.postg
 All though the data set contains many tables and relationships I have chosen to focus on only a few for this demonstration.
 ![Link to ER-Model Image](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png)
 
-## SQL Query Breakdown
+## Questions, Solutions and Results
 
 ### 1. Who are our top spenders?
 
