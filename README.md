@@ -1,6 +1,6 @@
 # 🍿SQL-DVD-Rental
 
-Utilizing the PostgreSQL Sample Database, this demonstration showcases various SQL queries on the DVD Rental database.
+Utilizing the PostgreSQL and pgAdmin in this demonstration, showcasing various SQL queries on the DVD Rental database.
 
 *Note: In the results I have applied a LIMIT of 5 for readability.* 
 
