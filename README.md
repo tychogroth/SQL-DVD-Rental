@@ -1,10 +1,10 @@
-# SQL-DVD-Rental
+# 🍿SQL-DVD-Rental
 
 Utilizing the PostgreSQL Sample Database, this demonstration showcases various SQL queries on the DVD Rental database.
 
 *Note: In the results I have applied a LIMIT of 5 for readability.* 
 
-# Table of Contents
+# 📚Table of Contents
 - [Database ER-Model](#database-er-model)
 - [Questions, Solutions and Results](#questions-solutions-and-results)
     - [1. Who are our top spenders?](#1-who-are-our-top-spenders)
