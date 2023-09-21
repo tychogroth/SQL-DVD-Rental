@@ -14,8 +14,8 @@ Utilizing the PostgreSQL Sample Database, this demonstration showcases various S
     - [5. Can we determine the latest transaction amount for each customer?](#5-can-we-determine-the-latest-transaction-amount-for-each-customer)
 
 ## Database ER-Model
-
-![Link to ER-Model Image](insert_link_here)
+The data I have used in this demonstration can be found [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
+![Link to ER-Model Image](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png)
 
 ## SQL Query Breakdown
 
